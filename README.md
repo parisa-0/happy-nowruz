@@ -1,8 +1,5 @@
 # 🎉 Happy Nowruz! 🎥
 This is a simple React application that celebrates Nowruz (Persian New Year) with a video player and a play/pause button. The app uses ReactPlayer to embed a YouTube video and includes custom styles for a festive look.
-## Available Scripts
-
-In the project directory, you can run:
 
 ### 🚀 Features
 
